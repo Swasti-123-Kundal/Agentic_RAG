@@ -1,3 +1,4 @@
+HEAD
 # 🧐 Agentic RAG with Reasoning
 
 ### 🎓 FREE Step-by-Step Tutorial 
@@ -107,3 +108,6 @@ The application uses a sophisticated RAG pipeline with Agno v2.0:
 - Reasoning process displayed in left panel, answer generation in right panel
 - Sources cited for transparency and verification
 - All events streamed in real-time for better user experience
+
+# Agentic_RAG
+b75f538f91525ca66ee2f7adc70f615cd6873de6
